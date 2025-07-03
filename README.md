@@ -31,5 +31,3 @@ Synthesize in Vivado:
 - Add `src/*.v`
 - Apply constraints from `synth/vivado_constraints.xdc`
 
-## License
-MIT
